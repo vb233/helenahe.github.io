@@ -3,12 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: PhD Student, Accounting # the website title (if blank, full name will be used instead)
-first_name: Helena 
-middle_name:（ZhiHan)
+first_name: Helena
+middle_name: (ZhiHan)
 last_name: He
 contact_note: "Email: helena.he@uwaterloo.ca"
-description: 
-"Welcome to the space of Helena (ZhiHan) He. I am a rising fifth-year Ph.D. candidate in Accounting at the University of Waterloo.“
+description: "Welcome to the space of Helena (ZhiHan) He. I am a rising fifth-year Ph.D. candidate in Accounting at the University of Waterloo."
 
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -19,8 +18,8 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👩🏻‍🎓📖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
-url: https://www.helenahe.ca. # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://www.helenahe.ca # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -121,7 +120,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 analytics:
   # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
   # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-  google: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+  google: # PASTE YOUR GA4 MEASUREMENT ID HERE (format: G-XXXXXXXXXX)
   cronitor: # cronitor RUM analytics site ID (format: XXXXXXXXX)
   pirsch: # your Pirsch analytics site ID (length 32 characters)
   openpanel: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -151,6 +150,7 @@ related_blog_posts:
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
+# NOTE: left disabled per your request — the fields below are unused unless you add a giscus config later.
 giscus:
   repo: # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
@@ -356,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [He] # TODO: confirm — see my question above about your author-name format
+  first_name: [Helena, H.] # TODO: confirm — see my question above about your author-name format
 
   style: apa
   locale: en
