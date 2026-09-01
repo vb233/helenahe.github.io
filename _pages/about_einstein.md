@@ -1,0 +1,1 @@
+I'm a fifth-year Ph.D. candidate in Accounting at the School of Accounting and Finance, University of Waterloo, looking for an assistant professor position. I use archival data and empirical methods to examine the effect of enforcement and disclosures on firms. 
