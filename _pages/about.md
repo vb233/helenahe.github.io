@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Waterloo</a> Concordia cum veritate
+subtitle: <a href='#'>University of Waterloo</a> "Concordia cum veritate" - In harmony with truth
 
 profile:
   align: right
