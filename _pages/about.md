@@ -29,6 +29,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+contact_note: "Email: helena.he@uwaterloo.ca"
 
 I'm a fifth-year Ph.D. candidate in Accounting at the School of Accounting and Finance, University of Waterloo, looking for an assistant professor position. I use archival data and empirical methods to examine the effect of enforcement and disclosures on firms.
 
