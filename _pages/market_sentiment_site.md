@@ -13,13 +13,15 @@ This market sentiment tool was inspired by CNN's Fear and Greed Index, but I mad
 
 <h3 style="color: #c00cc0;">How to use it?</h3>
 
-The bottom section is a stock lookup tool, where you can enter your Alpha Vantage API key (it's **free**) and look up stocks. The history for any stocks you search will be stored locally on your computer, so if you switch to a different computer, that history won't carry over.
+<h5 style="color: #c00cc0;">The top section</h5> displays the S&P 500 index daily price, the Fear and Greed Index score, VIX volatility, and the percentage of stocks trading above their moving average. Each of these metrics is also shown as a trend graph for visualization.
+
+<h5 style="color: #c00cc0;">The bottom section</h5> is a stock lookup tool where you can enter your Alpha Vantage API key (it's **free**) to look up stocks. Search history is stored locally on your computer, so it won't carry over if you switch to a different device.
 
 Let me know if you find it useful, or if there's anything you think I should add.
 
 **Have fun with it!** :)
 
-<img src="/assets/img/market_sentiment_example.png" alt="Market Sentiment Tool sample" style="max-width: 500px; width: 80%; height: 80%;">
+<img src="/assets/img/market_sentiment_example.png" alt="Market Sentiment Tool sample" style="max-width: 800px; width: 80%; height: 80%;">
 
 <h3 style="color: #c00cc0;">Link</h3>
 
