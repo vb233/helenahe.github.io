@@ -1,4 +1,5 @@
 ---
+
 layout: course
 title: Introduction to Taxation (AFM 206)
 description: This course is the first of a sequence of courses in which students will learn to apply Canadian tax principles to taxpayer situations. In this course, students will be equipped to apply basic tax rules to individual circumstances and work with software to prepare personal tax returns. The course focuses on being able to understand and apply income tax to detailed scenarios involving individual employment income as well as personal income tax deductions and credits.
@@ -9,7 +10,7 @@ course_id: Introduction to Taxation (AFM 206)
 
 ## Technology
 
-- Wealthsimple Tax Software 
+- Wealthsimple Tax Software
 
 ## Grading
 
