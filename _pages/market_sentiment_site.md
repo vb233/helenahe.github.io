@@ -21,13 +21,11 @@ Let me know if you find it useful, or if there's anything you think I should add
 
 <span style="color: #c00cc0;">**Have fun with it!** :)</span>
 
-<h3 style="color: #c00cc0;">Link</h3>
-
 <a href="https://vb233.github.io/market-sentiment/" target="_blank" rel="noopener"
    style="display: inline-block; margin-top: 1rem; padding: 0.6rem 1.2rem; border-radius: 6px; background-color: #c00cc0; color: #fff; text-decoration: none; font-weight: 500;">
 <i class="fa-solid fa-chart-line"></i>&nbsp; Visit Market Sentiment Tool
 </a>
 
-<img src="/assets/img/market_sentiment_example.png" alt="Market Sentiment Tool sample" style="max-width: 1000px; width: 80%; height: 80%;">
+<img src="/assets/img/market_sentiment_example.png" alt="Market Sentiment Tool sample" style="max-width: 1000px; width: 90%; height: 90%;">
 
 
