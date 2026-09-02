@@ -7,28 +7,25 @@ nav: true
 nav_order: 6
 calendar: false
 ---
+This page displays my teaching-related commitments.
 
-This page displays my teaching-related commitments. 
+### Introduction to Taxation (AFM 206)
+{:style="color: #FF00FF;"}
+**Fall 2025** · Mondays and Wednesdays, 02:30PM - 03:50PM
 
----
-title: Introduction to Taxation (AFM 206)
-description: This course is the first of a sequence of courses in which students will learn to apply Canadian tax principles to taxpayer situations. In this course, students will be equipped to apply basic tax rules to individual circumstances and work with software to prepare personal tax returns. The course focuses on being able to understand and apply income tax to detailed scenarios involving individual employment income as well as personal income tax deductions and credits.
-year: 2025
-term: Fall
-time: Mondays and Wednesdays, 02:30PM - 03:50PM
-course_id: Introduction to Taxation (AFM 206)
+This course is the first of a sequence of courses in which students will learn to apply Canadian tax principles to taxpayer situations. In this course, students will be equipped to apply basic tax rules to individual circumstances and work with software to prepare personal tax returns. The course focuses on being able to understand and apply income tax to detailed scenarios involving individual employment income as well as personal income tax deductions and credits.
 
-## Technology
+#### Technology
+{:style="color: #FF00FF;"}
+- Wealthsimple Tax Software
 
-- Wealthsimple Tax Software 
-
-## Grading
-
+#### Grading
+{:style="color: #FF00FF;"}
 - Pre-Lecture Video Quizzes: 10%
 - In-Class Participation: 20%
 - Tax Return Assignment: 20%
 - Client Simulation: 10%
 - Final Exam: 40%
 
-## Course Evaluation
-
+#### Course Evaluation
+{:style="color: #FF00FF;"}
