@@ -36,3 +36,6 @@ This course is the first of a sequence of courses in which students will learn t
 #### Course Evaluation
 
 {:style="color: #FF00FF;"}
+
+<img src="/assets/img/AFM 206 - Course perception.png" alt="Market Sentiment Tool sample">
+
