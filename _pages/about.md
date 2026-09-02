@@ -30,4 +30,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a fifth-year Ph.D. candidate in Accounting at the School of Accounting and Finance, University of Waterloo, looking for an assistant professor position. I use archival data and empirical methods to examine the effect of enforcement and disclosures on firms.
+I am a fifth year PhD candidate in Accounting at the School of Accounting and Finance, University of Waterloo. I expect to graduate in June 2027 and am seeking an assistant professor position.
+
+My research uses archival data and empirical methods to examine how enforcement and disclosure affect firms, with a particular focus on tax outcomes and tax-related policies.
