@@ -2,8 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Accounting 
-subtitle: <a href='#'>University of Waterloo</a> "Concordia cum veritate" - In harmony with truth
+subtitle: >
+  Ph.D. Candidate in Accounting<br>
+  <a href='#'>University of Waterloo</a><br>
+  "Concordia cum veritate" - In harmony with truth
 
 profile:
   align: right
