@@ -14,7 +14,7 @@ This page displays my teaching-related commitments.
 
 **Fall 2025** · Two Sections; Mondays and Wednesdays, 02:30PM - 03:50PM
 
-<span style="color: #c00cc0;">Nominated for the Warren Ober Award for Outstanding Teaching by a Graduate Student</span>
+<span style="color: #c00cc0;"> *Nominated for the Warren Ober Award for Outstanding Teaching by a Graduate Student* </span>
 
 This course is the first of a sequence of courses in which students will learn to apply Canadian tax principles to taxpayer situations. In this course, students will be equipped to apply basic tax rules to individual circumstances and work with software to prepare personal tax returns. The course focuses on being able to understand and apply income tax to detailed scenarios involving individual employment income as well as personal income tax deductions and credits.
 
@@ -32,7 +32,7 @@ This course is the first of a sequence of courses in which students will learn t
 
 ### Course Evaluation
 
-<img src="/assets/img/AFM 206 - Course perception .png" alt="Teaching Evaluation" style="max-width: 1000px; width: 80%; height: 80%;">
+<img src="/assets/img/AFM 206 - Course perception .png" alt="Teaching Evaluation" style="max-width: 1000px; width: 60%; height: 60%;">
 
 <h3 style="color: #c00cc0;">Introduction to Financial Accounting (AFM 101)</h3>
 
