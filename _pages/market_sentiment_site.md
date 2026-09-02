@@ -19,7 +19,7 @@ This market sentiment tool was inspired by CNN's Fear and Greed Index, but I mad
 
 Let me know if you find it useful, or if there's anything you think I should add.
 
-**Have fun with it!** :)
+<span style="color: #c00cc0;">**Have fun with it!** :)</span>
 
 <h3 style="color: #c00cc0;">Link</h3>
 
