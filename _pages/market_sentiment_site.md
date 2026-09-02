@@ -16,7 +16,7 @@ Let me know if you find it useful, or if there's anything you think I should add
 
 **Have fun with it!** :)
 
-assets/img/market_sentiment_example.png
+![Market Sentiment Tool sample](/assets/img/market_sentiment_example.png)
 
 ## Link
 <a href="https://vb233.github.io/market-sentiment/" target="_blank" rel="noopener"
