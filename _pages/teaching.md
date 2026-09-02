@@ -8,8 +8,6 @@ nav_order: 6
 calendar: false
 ---
 
-This page displays my teaching-related commitments.
-
 <h3 style="color: #c00cc0;">Introduction to Taxation (AFM 206)</h3>
 
 **Fall 2025** · Two Sections; Mondays and Wednesdays, 02:30PM - 03:50PM
