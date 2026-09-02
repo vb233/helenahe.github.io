@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Classes Taught
+description: Teaching-related commitments
 nav: true
 nav_order: 6
 calendar: false
