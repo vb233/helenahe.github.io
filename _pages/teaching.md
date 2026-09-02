@@ -30,7 +30,7 @@ This course is the first of a sequence of courses in which students will learn t
 
 #### Course Evaluation
 
-<img src="/assets/img/AFM 206 - Course perception .png" alt="Teaching Evaluation" style="max-width: 1000px; width: 50%; height: 50%;">
+<img src="/assets/img/AFM 206 - Course perception .png" alt="Teaching Evaluation" style="max-width: 1000px; width: 25%; height: 25%;">
 
 <h3 style="color: #c00cc0;">Introduction to Financial Accounting (AFM 101)</h3>
 
