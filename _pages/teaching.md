@@ -18,7 +18,7 @@ This page displays my teaching-related commitments.
 
 This course is the first of a sequence of courses in which students will learn to apply Canadian tax principles to taxpayer situations. In this course, students will be equipped to apply basic tax rules to individual circumstances and work with software to prepare personal tax returns. The course focuses on being able to understand and apply income tax to detailed scenarios involving individual employment income as well as personal income tax deductions and credits.
 
-### Technology
+#### Technology
 
 - Wealthsimple Tax Software
 
