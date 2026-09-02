@@ -17,7 +17,7 @@ This market sentiment tool was inspired by CNN's Fear and Greed Index, but I mad
 
 <span style="color: #c00cc0;">The bottom section</span> is a stock lookup tool where you can enter your Alpha Vantage API key (it's **free**) to look up stocks. Search history is stored locally on your computer, so it won't carry over if you switch to a different device.
 
-Let me know if you find it useful, or if there's anything you think I should add.
+Let me know if you find it useful, or if there's anything that I should add.
 
 <span style="color: #c00cc0;">**Have fun with it!** :)</span>
 
