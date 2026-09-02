@@ -16,6 +16,6 @@ Let me know if you find it useful, or if there's anything you think I should add
 
 ## Link
 <a href="https://vb233.github.io/market-sentiment/" target="_blank" rel="noopener"
-   style="display: inline-block; margin-top: 1rem; padding: 0.6rem 1.2rem; border-radius: 6px; background-color: #2f5aa8; color: #fff; text-decoration: none; font-weight: 500;">
+   style="display: inline-block; margin-top: 1rem; padding: 0.6rem 1.2rem; border-radius: 6px; background-color: #FF00FF; color: #fff; text-decoration: none; font-weight: 500;">
   <i class="fa-solid fa-chart-line"></i>&nbsp; Visit Market Sentiment Tool
 </a>
