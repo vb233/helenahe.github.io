@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >
   Ph.D. Candidate in Accounting<br>
- <strong>University of Waterloo</strong>
+  <span style="font-weight: bold;">University of Waterloo</span>
   "Concordia cum veritate" - In harmony with truth
 
 profile:
