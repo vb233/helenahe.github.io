@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth year PhD candidate in Accounting at the School of Accounting and Finance, University of Waterloo. I expect to graduate in June 2027 and am seeking an assistant professor position. 
+I am a fifth-year PhD candidate in Accounting at the School of Accounting and Finance, University of Waterloo. I expect to graduate in June 2027 and am seeking an assistant professor position. In 2021, I passed the Common Final Examination (CFE) with an in-depth role in taxation and successfully became a CFE candidate. 
 
-My research uses archival data and empirical methods to examine how <span style="color: #c00cc0; font-style: italic;">enforcement of corporate misconduct</span> and <span style="color: #c00cc0; font-style: italic;">tax policies</span> shape firms' <span style="color: #c00cc0; font-style: italic;">tax-related outcomes and behavior</span>.
+My research uses archival data and empirical methods to examine how <span style="color: #c00cc0; font-style: italic;">enforcement of corporate misconduct</span> and <span style="color: #c00cc0; font-style: italic;">tax policies</span> shape firms' tax-related outcomes and behavior. Specifically, my main research focus is on firms' <span style="color: #c00cc0; font-style: italic;">ability to maximize after-tax return</span> because it is the objective that firms and shareholders actually care about, and because pursuing it forces trade-offs across strategies rather than the minimization of any single cost. 
 
