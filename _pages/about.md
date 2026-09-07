@@ -32,5 +32,5 @@ latest_posts:
 
 I am a fifth year PhD candidate in Accounting at the School of Accounting and Finance, University of Waterloo. I expect to graduate in June 2027 and am seeking an assistant professor position. 
 
-My research uses archival data and empirical methods to examine how enforcement and tax policy shape firms' after-tax returns, which depend jointly on effective tax planning and operational efficiency. I focus on after-tax return maximization because it is the objective that firms and shareholders actually care about, and because pursuing it forces trade-offs across strategies rather than the minimization of any single cost.
+My research uses archival data and empirical methods to examine how <span style="color: #c00cc0; font-style: italic;">enforcement of corporate misconduct</span> and <span style="color: #c00cc0; font-style: italic;">tax policies</span> shape firms' <span style="color: #c00cc0; font-style: italic;">tax-related outcomes and behavior</span>.
 
