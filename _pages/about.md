@@ -34,5 +34,5 @@ Hi, I am a fifth-year PhD candidate in Accounting at the School of Accounting an
 
 My research uses archival data and empirical methods to examine how <span style="color: #c00cc0">enforcement of corporate misconduct</span> and <span style="color: #c00cc0">tax policies</span> shape firms' tax-related outcomes and behavior. Specifically, my main research focus is on firms' <span style="color: #c00cc0">ability to maximize after-tax return</span> because it is the objective that firms and shareholders actually care about, and because pursuing it forces trade-offs across strategies rather than the minimization of any single cost. 
 
-As a hobby, I follow the stock market, which led me to develop my own <span style="color: #c00cc0">market sentiment tool</span>. Details on the tool are available in the 'My Market Sentiment Tool' tab.
+As a hobby, I follow the stock market, which led me to develop my own <span style="color: #c00cc0">market sentiment tool</span>. Details on the tool are available in the "My Market Sentiment Tool" tab.
 
