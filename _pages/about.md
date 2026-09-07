@@ -32,7 +32,7 @@ latest_posts:
 
 Hi, I am a fifth-year PhD candidate in Accounting at the School of Accounting and Finance, University of Waterloo, and expect to graduate in June 2027. I am seeking an assistant professor position. In 2021, I passed the Common Final Examination (CFE) with an in-depth track in taxation.
 
-My research uses archival data and empirical methods to examine how <span style="color: #c00cc0">enforcement of corporate misconduct</span> and <span style="color: #c00cc0">tax policies</span> shape firms' tax-related outcomes and behavior. Specifically, the firm outcome that is my main research focus is firms' <span style="color: #c00cc0">ability to maximize after-tax return</span> because it is the rule of thumb for a firm's decisions according to the Scholes-Wolfson paradigm. After-tax return maximization involves trade-offs across firm strategies, which I am interested in examining further.
+My research uses archival data and empirical methods to examine how <span style="color: #c00cc0">enforcement of corporate misconduct</span> and <span style="color: #c00cc0">tax policies</span> shape firms' tax-related outcomes and behavior. Specifically, the firm outcome that is my main research focus is firms' <span style="color: #c00cc0">ability to maximize after-tax return</span> because it is the rule of thumb for firms' decisions according to the Scholes-Wolfson paradigm. After-tax return maximization involves trade-offs across firm strategies, which I am interested in examining further.
 
 As a hobby, I follow the stock market, which led me to develop my own <span style="color: #c00cc0">market sentiment tool</span>. Details on the tool are available in the "My Market Sentiment Tool" tab.
 
