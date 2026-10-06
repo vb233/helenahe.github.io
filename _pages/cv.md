@@ -11,4 +11,4 @@ nav_order: 6
   Your browser doesn't support embedded PDFs.
 </iframe>
 
-<p>If the preview above doesn't load, <a href="/assets/pdf/cv.pdf" target="_blank">click here to download my CV</a> directly.</p>
+<p>If the preview above doesn't load, <a href="/assets/pdf/Helena (ZhiHan) He _ Resume 2026-10.pdf" target="_blank">click here to download my CV</a> directly.</p>
