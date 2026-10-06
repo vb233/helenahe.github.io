@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-<iframe src="/assets/pdf/cv.pdf" width="100%" height="800px" style="border: none;">
+<iframe src="/assets/pdf/Helena (ZhiHan) He _ Resume 2026-10.pdf" width="100%" height="800px" style="border: none;">
   Your browser doesn't support embedded PDFs.
 </iframe>
 
